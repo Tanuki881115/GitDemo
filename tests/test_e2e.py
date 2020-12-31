@@ -70,3 +70,4 @@ class TestOne(BaseClass):
 
         assert ("Success! Thank you!" in textMatch)
         assert ("Success! Thank you!" in textMatch)
+        assert ("Success! Thank you!" in textMatch)
